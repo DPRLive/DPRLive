@@ -1,12 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sung%20Yun&fontAlign=75&fontAlignY=40&color=gradient)
-
-<div align="left">
     
 # 🎮 Unreal Engine Game Developer 🎮
 반갑습니다. </br>
 저는 Unreal Engine을 통한 게임 컨텐츠 프로그래밍을 공부하고 있습니다. </br>
 게임 세상을 통해 재미와 감동, 그리고 추억을 많은 사람들에게 만들어 주고 싶은 꿈을 가지고 있습니다.
-</div>
 
 </br>
 
